@@ -116,7 +116,7 @@ In this scenario a customer has decided to migrate to over 100 SQL Server 2008 R
 
 ## PART 2: Azure Migration   
 
-1. Login to Azure https://portal.azure.us/signin with the credentials provided in the lab details page.  
+1. Login to Azure https://portal.azure.com/signin with the credentials provided in the lab details page.  
 
 <img src="/images/azure-credentials.png">  
 
