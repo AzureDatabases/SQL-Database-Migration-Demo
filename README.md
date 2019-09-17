@@ -14,7 +14,7 @@
 ## About this demo  
 
 In this demo we’ll show you how we’re making it easier for customers to migrate to Azure with three key tools: Azure Migrate, Data Migration Assistant (DMA) and Azure Database Migration Service (DMS).
-In this scenario a customer has decided to migrate to the cloud and has over 100 databases that need migrating. We start with Data Migration Assistant (DMA) to assess and detect compatibility issues that can impact database functionality in your new version of SQL Server or Azure SQL Database. DMA recommends performance and reliability improvements for your target environment and allows you to move your schema, data, and uncontained objects from your source server to your target server.
+In this scenario a customer has decided to migrate to over 100 SQL Server 2008 R2 databases to Azure. We start with Data Migration Assistant (DMA) to assess and detect compatibility issues that can impact database functionality in your new version of SQL Server or Azure SQL Database. DMA recommends performance and reliability improvements for your target environment and allows you to move your schema, data, and uncontained objects from your source server to your target server.
 
 
 
