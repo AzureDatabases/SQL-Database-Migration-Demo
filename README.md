@@ -71,7 +71,7 @@ In this scenario a customer has decided to migrate to over 100 SQL Server 2008 R
 
 <img src="/images/connect-to-server-dma.png">  
 
-20. In **Add sources** pane: Select all the databases by checking on the box corresponding to **sqlserver-01**.
+20. In **Add sources** pane: Select all the databases by checking on the box corresponding to **sqlserver-01**. For a shorter demo just select the top 5 databases.
 
 21. Click on **Add**.  
 
