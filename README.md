@@ -165,16 +165,9 @@ The SKU Recommendations feature of the DMA allows you to identify both the minim
 
 <img src="/images/prices_sql_db_click.png">   
 
-2.  In the **Subscription Information** region, enter the following details.  
-
-    *  Subscription Id  
-    *  Region  
-    *  Resource group  
-    *  Server Name  
-    *  Server Admin Username  
-    *  Server Admin Password  
-    
-These details will be used to generate the PowerShell script that can be used to provision the databases.    
+2.  The **Subscription Information** has beed pre-populated.  
+  
+These details are used to generate a PowerShell script that can be used to provision the databases.    
 
 <img src="/images/subscription-information-sqldb-html.png">  
 
@@ -193,18 +186,9 @@ These details will be used to generate the PowerShell script that can be used to
 <img src="/images/prices-sqlmi-html-click.png">   
 
 
-7.  In the **Subscription Information** region, enter the following details.  
-
-    *  Subscription Id  
-    *  Resource group   
-    *  Region   
-    *  Instance Name  
-    *  Instance Admin Username  
-    *  Instance Admin Password  
-    *  Vnet Name  
-    *  Subnet Name
-    
-These details will be used to generate the PowerShell script that can be used to provision the Managed Instance.    
+7.  The **Subscription Information** has ben pre-populated.  
+   
+These details are used to generate a PowerShell script that can be used to provision the Managed Instance.    
 
 <img src="/images/subscription-information-sqlmi-html.png">    
 
