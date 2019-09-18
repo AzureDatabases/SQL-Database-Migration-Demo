@@ -251,3 +251,21 @@ These details are used to generate a PowerShell script that can be used to provi
 
 <img src="/images/start-cutover-grey.png">   
 
+## Additional Resources:
+
+Data Migration Assistant
+https://docs.microsoft.com/en-us/sql/dma/dma-overview
+
+Azure Migrate
+https://azure.microsoft.com/en-us/services/azure-migrate/
+
+Azure SQL Database SKU recommendations
+https://docs.microsoft.com/en-us/sql/dma/dma-sku-recommend-sql-db
+
+Azure Database Migration Service
+https://azure.microsoft.com/en-us/services/database-migration/
+
+Azure database migration guide 
+https://datamigration.microsoft.com/
+
+
